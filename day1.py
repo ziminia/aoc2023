@@ -1,4 +1,4 @@
-file1 = open('input1-1.txt', 'r')
+file1 = open('input1.txt', 'r')
 input = file1.readlines()
 
 #this is what happens when you code at 1:30 AM

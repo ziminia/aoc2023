@@ -1,6 +1,6 @@
 import re
 
-file1 = open('input2-1.txt', 'r')
+file1 = open('input2.txt', 'r')
 input = file1.readlines()
 
 colorMaxes = {

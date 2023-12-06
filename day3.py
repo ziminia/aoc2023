@@ -1,6 +1,6 @@
 import re
 
-file1 = open('input3-1.txt', 'r')
+file1 = open('input3.txt', 'r')
 input = file1.readlines()
 
 total = 0
